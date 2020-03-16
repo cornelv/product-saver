@@ -1,0 +1,5 @@
+[run]
+include = product_saver/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
