@@ -40,7 +40,7 @@ Faker==4.0.2
 filelock==3.0.12
 flake8==3.7.9
 flake8-isort==2.8.0
-flower==0.9.3
+flower==1.2.0
 graphene==2.1.8
 graphene-django==2.9.0
 graphql-core==2.3.1
